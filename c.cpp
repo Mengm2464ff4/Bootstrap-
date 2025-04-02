@@ -197,7 +197,7 @@ void loop()
                                          // (x ដេក, yឈរ)
     display.setCursor(0, 16);            // Start at top-left corner
     display.cp437(true);                 // Use full 256 char 'Code Page 437' font
-    display.println(F("Liv Chhenging"));
+    display.println(F("Vutha"));
     display.display();
     delay(1000);
     display.clearDisplay();
